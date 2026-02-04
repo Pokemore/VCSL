@@ -116,8 +116,8 @@ def get_args_parser():
     # ['ytvos', 'davis', 'a2d', 'jhmdb', 'refcoco', 'refcoco+', 'refcocog', 'rsvg', 'all']
     # 'all': using the three ref datasets for pretraining
     parser.add_argument('--dataset_file', default='rsvg', help='Dataset name')
-    parser.add_argument('--rsvg_path', type=str, default='/data/26fa1f99/dataset/DIOR_RSVG')
-    parser.add_argument('--rsvg_mm_path', type=str, default='/data/26fa1f99/dataset/RSVG-HR')
+    parser.add_argument('--rsvg_path', type=str, default='/root/Documents/Dataset/DIOR-RSVG')
+    parser.add_argument('--rsvg_mm_path', type=str, default='/root/Documents/Dataset/RSVG-HR')
     parser.add_argument('--refopt_path', type=str, default='/data/OPT-RSVG/RefOPT')
     parser.add_argument('--coco_path', type=str, default='data/coco')
     parser.add_argument('--ytvos_path', type=str, default='data/ref-youtube-vos')
