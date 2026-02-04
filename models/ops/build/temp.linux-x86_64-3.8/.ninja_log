@@ -1,0 +1,8 @@
+# ninja log v5
+0	2822	1758387487762162317	/data/LQVG/models/ops/build/temp.linux-x86_64-3.8/data/LQVG/models/ops/src/cpu/ms_deform_attn_cpu.o	ca24407a18f539de
+0	9571	1758387494502180014	/data/LQVG/models/ops/build/temp.linux-x86_64-3.8/data/LQVG/models/ops/src/cuda/ms_deform_attn_cuda.o	e7c85227dedff58e
+0	14081	1758387499018191259	/data/LQVG/models/ops/build/temp.linux-x86_64-3.8/data/LQVG/models/ops/src/vision.o	995f0ed4b245ce30
+0	3032	1769321898050609658	/root/Documents/Code/VCSL/models/ops/build/temp.linux-x86_64-3.8/root/Documents/Code/VCSL/models/ops/src/cpu/ms_deform_attn_cpu.o	5dfc148c97cdb1d1
+1	10109	1769321905121926404	/root/Documents/Code/VCSL/models/ops/build/temp.linux-x86_64-3.8/root/Documents/Code/VCSL/models/ops/src/cuda/ms_deform_attn_cuda.o	b0eb33bc32afa9af
+0	14225	1769321909237532246	/root/Documents/Code/VCSL/models/ops/build/temp.linux-x86_64-3.8/root/Documents/Code/VCSL/models/ops/src/vision.o	ac20219f044a9216
+4	8981	1769322256435717432	/root/Documents/Code/VCSL/models/ops/build/temp.linux-x86_64-3.8/root/Documents/Code/VCSL/models/ops/src/cuda/ms_deform_attn_cuda.o	b0eb33bc32afa9af
