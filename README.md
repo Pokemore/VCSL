@@ -6,7 +6,7 @@ Welcome to the official implementation of VCSL. This repository contains the com
 
 ## 📊 Visualization
 
-![Visualization Results of VCSL Compared with Other Models](C:\Users\25412\Pictures\Screenshots\屏幕截图 2026-02-04 161016.png)
+![Visualization Results of VCSL Compared with Other Models](result.png)
 
 Visual grounding on long sentences is a known difficulty for VLMs. For an intuitive evaluation under complex scenarios, we present a visual comparison of grounding results between VCSL and four classic models.
 
