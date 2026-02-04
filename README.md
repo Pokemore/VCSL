@@ -100,7 +100,7 @@ We primarily use two datasets: **DIOR-RSVG** and **OPT-RSVG**.
 
 - **DIOR-RSVG**:
   Can be downloaded from https://huggingface.co/datasets/LittleCollections/DIOR-RSVG/tree/main.
-  This dataset requires preprocessing to split multiple targets from a single XML file into separate XML files to accommodate the data loading pipeline. We provide `DataPre.py` for dataset preprocessing. Run this script to transform the raw data into the proper format for model training and evaluation.
+  This dataset requires preprocessing to split multiple targets from a single XML file into separate XML files to accommodate the data loading pipeline. We provide `data_prepare.py` for dataset preprocessing. Run this script to transform the raw data into the proper format for model training and evaluation.
 - **OPT-RSVG**:
   Can be downloaded from https://drive.google.com/drive/folders/1e_wOtkruWAB2JXR7aqaMZMrM75IkjqCA.
 
